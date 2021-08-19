@@ -5,9 +5,7 @@
 
 |분류|내용|코드|
 |---|---|---|
-|Supervised Anomaly Detection|학습시, Labeling된 정상/비정상 데이터를 모두 사용한 경우   
-Class-Imbalance(불균형) 문제
-모델 성능 평가가 가능하다는 점에서 직관적일 수 있지만, 척도 선정에 주의|
+|Supervised Anomaly Detection|학습시, Labeling된 정상/비정상 데이터를 모두 사용한 경우, Class-Imbalance(불균형) 문제, 모델 성능 평가가 가능하다는 점에서 직관적일 수 있지만, 척도 선정에 주의|
 |Semi-supervised Anomaly Detection|
 |Unsupervised Anomaly Detection|
 
