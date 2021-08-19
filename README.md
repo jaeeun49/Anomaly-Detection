@@ -6,5 +6,12 @@
 ## Anomaly Detection 분류
 학습 시 사용하는 label유무에 따라 다음과 같이 3가지고 분류할 수 있습니다. 
 
-### 1. Supervised Anomaly Detection![image](https://user-images.githubusercontent.com/76995436/130019042-4945f6d3-0372-4a8e-80d6-8ba62d1687d1.png)
+### 1. Supervised Anomaly Detection
+- 학습시, Labeling된 정상/비정상 데이터를 모두 사용한 경우
+![image](https://user-images.githubusercontent.com/76995436/130019233-a7125c58-edc6-4da3-bbf8-d422e5f6ed0e.png)
 
+
+### 2. Semi-supervised (One-Class) Anomaly Detection
+
+
+### 3. Unsupervised Anomaly Detection![image](https://user-images.githubusercontent.com/76995436/130019197-d9aed2b5-1dc8-412b-be68-46c68639059d.png)
