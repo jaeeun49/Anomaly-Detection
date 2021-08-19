@@ -8,7 +8,6 @@
 
 ### 1. Supervised Anomaly Detection
 - 학습시, Labeling된 정상/비정상 데이터를 모두 사용한 경우
-![image](https://user-images.githubusercontent.com/76995436/130019233-a7125c58-edc6-4da3-bbf8-d422e5f6ed0e.png)
 
 
 ### 2. Semi-supervised (One-Class) Anomaly Detection
