@@ -6,7 +6,7 @@
 <br>
 
 ## Anomaly Detection 분류
-Anomaly Detection은 학습에 사용하는 label에 따라 크게 3가지로 분류할 수 있습니다. 
+Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가지로 분류할 수 있습니다. 
 
 ### 1. Supervised Anomaly Detection
 - 학습시, Labeling된 정상/비정상 데이터를 모두 사용한 경우
