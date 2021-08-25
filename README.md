@@ -35,4 +35,4 @@ Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가�
 ## Anomaly Detection 논문
 |데이터|논문|정리|코드리뷰|
 |---|---|---|---|
-|sensor data|LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection|||
+|sensor data|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|||
