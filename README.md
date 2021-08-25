@@ -1,7 +1,7 @@
 # Anomaly Detection
  
 데이터 분석에서 이상 탐지는 대부분의 데이터와 크게 달라 의심을 불러 일으키는 희귀 항목, 이벤트 또는 관찰을 식별하는 것입니다.
-이 저장소는 이상 탐지에 대한 주요 알고리즘 기법에 대한 스터디와 이를 Kaggle - Credit Card Fraud Detection 주제에 적용해보는 공간입니다.
+이 저장소는 이상 탐지에 대한 주요 알고리즘 기법, 논문에 대한 스터디와 관련 코드를 적용해보는 공간입니다.
 
 <br>
 
@@ -30,6 +30,9 @@ Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가�
 |Semi-supervised Anomaly Detection|One-Class SVM|
 |Unsupervised Anomaly Detection|Autoencoder|[Autoencoder](https://github.com/jaeeun49/Anomaly-Detection/blob/main/Autoencoder.ipynb)
 
+<br>
 
-
-
+## Anomaly Detection 논문
+|데이터|논문|정리|코드리뷰|
+|---|---|---|---|
+|sensor data|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|||
