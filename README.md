@@ -28,11 +28,11 @@ Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가�
 |---|---|---|
 |Supervised Anomaly Detection||
 |Semi-supervised Anomaly Detection|One-Class SVM|
-|Unsupervised Anomaly Detection|Autoencoder|[Autoencoder](https://github.com/jaeeun49/Anomaly-Detection/blob/main/prototype/Autoencoder.ipynb)
+|Unsupervised Anomaly Detection|Autoencoder|[Autoencoder](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code/Autoencoder.ipynb)
 
 <br>
 
 ## Anomaly Detection 논문
 |데이터|논문|정리|코드리뷰|
 |---|---|---|---|
-|sensor data|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|[pdf](https://github.com/jaeeun49/Anomaly-Detection/blob/main/review/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.pdf)|[.ipynb](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_review/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb)|
+|sensor data|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|[pdf](https://github.com/jaeeun49/Anomaly-Detection/blob/main/review/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.pdf)|[.ipynb](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb)|
