@@ -35,5 +35,5 @@ Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가�
 ## Anomaly Detection 논문
 |데이터|논문|정리|코드리뷰|
 |---|---|---|---|
-|Seneor|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|[pdf](https://github.com/jaeeun49/Anomaly-Detection/blob/main/review/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.pdf)|[.ipynb](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb)|
+|Sensor|[LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/abs/1607.00148)|[pdf](https://github.com/jaeeun49/Anomaly-Detection/blob/main/review/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.pdf)|[.ipynb](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb)|
 ||[TAnoGAN Time Series Anomaly Detection with Generative Adversarial Networks](https://arxiv.org/abs/2008.09567)
