@@ -25,7 +25,7 @@ Anomaly Detection은 학습에 사용하는 label 유무에 따라 크게 3가�
 <br>
 
 |분류|모델|코드|
-|---|---|---|
+|---|---|---|---|
 |Supervised Anomaly Detection||
 |Semi-supervised Anomaly Detection|One-Class SVM|
 |Unsupervised Anomaly Detection|Autoencoder|[Autoencoder](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/Autoencoder.ipynb)
